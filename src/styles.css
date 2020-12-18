@@ -1,7 +1,6 @@
 .App {
   font-family: sans-serif;
   text-align: center;
-  background-color: yellow;
 }
 
 .inputText {
@@ -18,4 +17,8 @@ input {
   padding: 1rem;
   text-align: center;
   margin: 1rem;
+}
+
+body {
+  background-color: yellow;
 }
